@@ -2,7 +2,7 @@
 Detection of facial features such as eyes, nose and mouth and the face itself using OpenCV 3 with Python 2.7.14
 
 How to test:
-Clone the repository using: git clone linktorepo
+Clone the repository using: git clone linktorepo.
 Go to command prompt, redirect to the project directory and type the command - python homepage.py C:\Users\Path-to-project..
 
 To test on a different image:
