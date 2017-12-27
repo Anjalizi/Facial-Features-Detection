@@ -18,7 +18,7 @@ if(choice==1):
 	# Create the haar cascade
 	faceCascade = cv2.CascadeClassifier(cascPath)
 
-    # Read the image
+        # Read the image
 	image = cv2.imread('o.jpg')
 	gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
